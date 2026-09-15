@@ -2,7 +2,7 @@
 Contributors: wpchefgadget, nikitaglobal
 Tags: ai, disable ai, security, connectors, privacy
 Requires at least: 7.0
-Tested up to: 7.0
+Tested up to: 7.1
 Stable tag: 1.3.0
 Requires PHP: 7.2
 License: GPLv2 or later
